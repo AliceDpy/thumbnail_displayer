@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+#main-pic {
+  width: 300px;
+  height: auto;
+  border: 1px solid black;
+  display: block;
+  margin: auto;
+}
+
+.min-pic {
+  width: 100px;
+  margin: 20px;
+  border: 1px solid black;
+}
